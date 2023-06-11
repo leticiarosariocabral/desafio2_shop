@@ -81,7 +81,7 @@
 }
 .subtitle{
   position: relative;
-  background: url(../img/MaskGroup.svg) no-repeat center/cover;
+  background: url(img/MaskGroup.svg) no-repeat center/cover;
   height: 45vh;
 }
 
