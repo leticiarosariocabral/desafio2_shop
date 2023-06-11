@@ -81,10 +81,9 @@
 }
 .subtitle{
   position: relative;
-  background: url(/img/MaskGroup.svg) no-repeat center/cover;
+  background: url(../img/MaskGroup.svg) no-repeat center/cover;
   height: 45vh;
 }
-
 .text {
   background: #1818187d;
   display: flex;
